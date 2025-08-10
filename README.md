@@ -1,16 +1,20 @@
+## Installation instructions
+- npm install
+- npm start
+
 ## Use Instructions
-Zoom In and Out are controlled by the scroll whell
+- Zoom In and Out are controlled by the scroll whell
 
-In order to scroll side to side use the scroll bar or Shift + ScrollWheel
+- In order to scroll side to side use the scroll bar or Shift + ScrollWheel
 
-To drag an item be sure you are in drag mode (Switch button should say "Switch to Edit Mode")
+- To drag an item be sure you are in drag mode (Switch button should say "Switch to Edit Mode")
 
-To edit the text of the items Click on "Switch to Edit Mode", now drag mode should be disabled and Inline Editing should be as simple as clicking on the text you want to modify
+- To edit the text of the items Click on "Switch to Edit Mode", now drag mode should be disabled and Inline Editing should be as simple as clicking on the text you want to modify
 
-## Extra feature
-Hovering the cursor on an item should display a tooltip with the complete name and current dates (It changes in relation of where the item is located in the Timeline)
+## Extra features
+- Hovering the cursor on an item should display a tooltip with the complete name and current dates (It changes in relation of where the item is located in the Timeline)
 
-Added a few days before and after the timeline to improve readability
+- Added a few days before and after the timeline to improve readability
 
 ## What you like about your implementation.
 What I mainly like is that the reordering of the items is being done automatically while dragging and avoids selecting other item's texts while doing it
